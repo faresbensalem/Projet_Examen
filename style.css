@@ -4,6 +4,11 @@ body {
     background-color: lightblue;
 }
 h1 {
+<<<<<<< HEAD
     color: #333;
 }
     
+=======
+    color: red;
+  }
+>>>>>>> develop
